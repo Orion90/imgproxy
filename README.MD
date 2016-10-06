@@ -8,4 +8,4 @@ Basic proxy which converts jpeg images to png on the fly
 
 ##Running locally
 
-`IMG_PROXY_BASEURL=http://{domain_of_image}/ PORT=8080 ./imgproxy`
+`IMG_PROXY_BASEURL=http://{domain_of_image} PORT=8080 ./imgproxy`
