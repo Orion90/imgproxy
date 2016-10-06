@@ -1,0 +1,10 @@
+{
+    "name": "imgproxy",
+      "description": "Proxy which converts jpeg images to png",
+        "keywords": [
+            "go",
+            "image"
+          ],
+  "image": "heroku/go:1.6",
+  "mount_dir": "src/github.com/Orion90/imgproxy"
+}
